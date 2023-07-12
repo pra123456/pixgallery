@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pixabay Gallery</string>
+    <string name="search_hint">Your search here</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
